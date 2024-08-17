@@ -1,5 +1,8 @@
 # Garbage-classification-based-on-yolo_v5
 
+# 完成效果
+https://www.bilibili.com/video/BV1Zc411q7C9/?spm_id_from=333.999.0.0&vd_source=57edaf13e747d0859bf9ffec5e05c1b1
+
 ## 介绍
 
 该工程用于参加中国大学生工程训练大赛垃圾分类赛项可以实现调用yolov5的api接口实现垃圾识别，并进行分类、显示、抓取、压缩、红外传感器检满等操作。
